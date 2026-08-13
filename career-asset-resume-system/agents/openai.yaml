@@ -1,0 +1,4 @@
+interface:
+  display_name: "Career Asset & Resume System"
+  short_description: "持续沉淀每日工作资产并更新多版本简历"
+  default_prompt: "帮我记录今天的工作、提炼可复用成果，并更新职业资产与简历。"
